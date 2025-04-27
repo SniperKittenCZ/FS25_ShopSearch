@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+    <translationContributors>SniperKittenCZ</translationContributors>
+    <texts>
+        <text name="input_SEARCH_SHOP" text="Vyhledávání v obchodě" />
+        <text name="dialogTitle" text="Vyhledávání v obchodě:" />
+        <text name="searchButton" text="Vyhledávání" />
+        <text name="searchResultsHeader" text="Výsledky vyhledávání" />
+        <text name="button_searchStore" text="Vyhledávání" />
+    </texts>
+</l10n>
